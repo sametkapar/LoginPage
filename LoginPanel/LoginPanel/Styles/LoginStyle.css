@@ -1,0 +1,50 @@
+﻿* {
+    font-family: Calibri;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 750px;
+}
+
+.Mainpanel {
+    background: lightblue;
+    width: 450px;
+    color: white;
+    border: 1px solid grey;
+    min-height: 500px;
+}
+
+    .Mainpanel h1 {
+        text-align: center;
+        font-size: 40px;
+        margin:25px;
+    }
+
+    .Mainpanel .input-box {
+        width: 100%;
+        height: 30px;
+        margin: 30px 0;
+    }
+    .input-box input{
+        width:100%;
+        height:100%;
+        border-radius:40px;
+        font-size:12pt;
+        background:transparent;
+        padding:20px 5px 20px 5px;
+        outline:none;
+        border:1px solid grey;
+
+    }
+    .input-box input::placeholder{
+        color:white;
+    }
+    .benihatirla{
+
+    }
