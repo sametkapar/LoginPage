@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Skapar\\source\\repos\\LoginPanel\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\LoginPage\\LoginPanel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A3B0CFB-946D-4BF5-BCF9-7EB3E57D5088}|LoginPanel\\LoginPanel.csproj|c:\\users\\skapar\\source\\repos\\loginpanel\\loginpanel\\login_panel\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7A3B0CFB-946D-4BF5-BCF9-7EB3E57D5088}|LoginPanel\\LoginPanel.csproj|c:\\users\\user\\documents\\github\\loginpage\\loginpanel\\loginpanel\\login_panel\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7A3B0CFB-946D-4BF5-BCF9-7EB3E57D5088}|LoginPanel\\LoginPanel.csproj|solutionrelative:loginpanel\\login_panel\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A3B0CFB-946D-4BF5-BCF9-7EB3E57D5088}|LoginPanel\\LoginPanel.csproj|c:\\users\\skapar\\source\\repos\\loginpanel\\loginpanel\\styles\\loginstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{7A3B0CFB-946D-4BF5-BCF9-7EB3E57D5088}|LoginPanel\\LoginPanel.csproj|C:\\Users\\user\\Documents\\GitHub\\LoginPage\\LoginPanel\\loginpanel\\styles\\loginstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{7A3B0CFB-946D-4BF5-BCF9-7EB3E57D5088}|LoginPanel\\LoginPanel.csproj|solutionrelative:loginpanel\\styles\\loginstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.html",
-              "DocumentMoniker": "C:\\Users\\Skapar\\source\\repos\\LoginPanel\\LoginPanel\\Login_Panel\\Main.html",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\LoginPage\\LoginPanel\\LoginPanel\\Login_Panel\\Main.html",
               "RelativeDocumentMoniker": "LoginPanel\\Login_Panel\\Main.html",
-              "ToolTip": "C:\\Users\\Skapar\\source\\repos\\LoginPanel\\LoginPanel\\Login_Panel\\Main.html",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\LoginPage\\LoginPanel\\LoginPanel\\Login_Panel\\Main.html",
               "RelativeToolTip": "LoginPanel\\Login_Panel\\Main.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-10-02T05:23:37.933Z",
               "EditorCaption": ""
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "LoginStyle.css",
-              "DocumentMoniker": "C:\\Users\\Skapar\\source\\repos\\LoginPanel\\LoginPanel\\Styles\\LoginStyle.css",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\LoginPage\\LoginPanel\\LoginPanel\\Styles\\LoginStyle.css",
               "RelativeDocumentMoniker": "LoginPanel\\Styles\\LoginStyle.css",
-              "ToolTip": "C:\\Users\\Skapar\\source\\repos\\LoginPanel\\LoginPanel\\Styles\\LoginStyle.css",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\LoginPage\\LoginPanel\\LoginPanel\\Styles\\LoginStyle.css",
               "RelativeToolTip": "LoginPanel\\Styles\\LoginStyle.css",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAAAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-02T09:50:10.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T09:50:10.2Z"
             }
           ]
         }

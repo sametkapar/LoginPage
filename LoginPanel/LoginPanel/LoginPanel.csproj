@@ -68,6 +68,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Login_Panel\Main.html" />
+    <Content Include="Pic\loom-1200x675.png" />
+    <Content Include="Pic\pexels-andrew-3178786.jpg" />
     <Content Include="Styles\LoginStyle.css" />
     <Content Include="Web.config" />
   </ItemGroup>
